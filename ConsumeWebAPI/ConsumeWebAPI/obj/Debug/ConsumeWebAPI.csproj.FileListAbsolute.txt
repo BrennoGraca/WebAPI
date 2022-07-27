@@ -1,0 +1,7 @@
+C:\Users\Brenno Graça\Desktop\TesteC#\New folder\WebAPI\ConsumeWebAPI\ConsumeWebAPI\bin\Debug\ConsumeWebAPI.exe.config
+C:\Users\Brenno Graça\Desktop\TesteC#\New folder\WebAPI\ConsumeWebAPI\ConsumeWebAPI\bin\Debug\ConsumeWebAPI.exe
+C:\Users\Brenno Graça\Desktop\TesteC#\New folder\WebAPI\ConsumeWebAPI\ConsumeWebAPI\bin\Debug\ConsumeWebAPI.pdb
+C:\Users\Brenno Graça\Desktop\TesteC#\New folder\WebAPI\ConsumeWebAPI\ConsumeWebAPI\obj\Debug\ConsumeWebAPI.csprojAssemblyReference.cache
+C:\Users\Brenno Graça\Desktop\TesteC#\New folder\WebAPI\ConsumeWebAPI\ConsumeWebAPI\obj\Debug\ConsumeWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Brenno Graça\Desktop\TesteC#\New folder\WebAPI\ConsumeWebAPI\ConsumeWebAPI\obj\Debug\ConsumeWebAPI.exe
+C:\Users\Brenno Graça\Desktop\TesteC#\New folder\WebAPI\ConsumeWebAPI\ConsumeWebAPI\obj\Debug\ConsumeWebAPI.pdb
