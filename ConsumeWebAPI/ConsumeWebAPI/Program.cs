@@ -1,3 +1,4 @@
+using Newtonsoft.Json;
 using System;
 using System.Net.Http;
 using System.Threading.Tasks;
@@ -8,17 +9,25 @@ namespace ConsumeWebAPI
     {
         static void Main(string[] args)
         {
+            HttpClient client = new HttpClient { BaseAddress = new Uri("https://jsonplaceholder.typicode.com") };
+            var response = client.GetAsync("users");
+            response.Wait();
 
-            async Task GetUsers()
+            if (response.IsCompleted)
             {
-                HttpClient client = new HttpClient { BaseAddress = new Uri("https://jsonplaceholder.typicode.com") };
-                var response = await client.GetAsync("users");
-                var content = await response.Content.ReadAsStringAsync();
+                var result = response.Result;
 
-                Console.WriteLine(content);
+                if (result.IsSuccessStatusCode)
+                {
+                    var message = result.Content.ReadAsStringAsync();
+                    message.Wait();
+                    Console.WriteLine("Message from WebAPI: " + message.Result);
+
+                    var jsonObject = JsonConvert.DeserializeObject(message.Result);
+
+                    Console.WriteLine("Json Object: " + jsonObject);
+                }
             }
-
-            GetUsers();
 
             Console.ReadLine();
         }

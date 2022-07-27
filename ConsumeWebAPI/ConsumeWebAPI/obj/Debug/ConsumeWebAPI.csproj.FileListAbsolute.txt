@@ -5,3 +5,14 @@ C:\Users\Brenno Graça\Desktop\TesteC#\New folder\WebAPI\ConsumeWebAPI\ConsumeWe
 C:\Users\Brenno Graça\Desktop\TesteC#\New folder\WebAPI\ConsumeWebAPI\ConsumeWebAPI\obj\Debug\ConsumeWebAPI.csproj.CoreCompileInputs.cache
 C:\Users\Brenno Graça\Desktop\TesteC#\New folder\WebAPI\ConsumeWebAPI\ConsumeWebAPI\obj\Debug\ConsumeWebAPI.exe
 C:\Users\Brenno Graça\Desktop\TesteC#\New folder\WebAPI\ConsumeWebAPI\ConsumeWebAPI\obj\Debug\ConsumeWebAPI.pdb
+C:\Users\Brenno Graça\Desktop\TesteC#\New folder\WebAPI\ConsumeWebAPI\ConsumeWebAPI\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Brenno Graça\Desktop\TesteC#\New folder\WebAPI\ConsumeWebAPI\ConsumeWebAPI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Brenno Graça\Desktop\TesteC#\New folder\WebAPI\ConsumeWebAPI\ConsumeWebAPI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Brenno Graça\Desktop\TesteC#\New folder\WebAPI\ConsumeWebAPI\ConsumeWebAPI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Brenno Graça\Desktop\TesteC#\New folder\WebAPI\ConsumeWebAPI\ConsumeWebAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Brenno Graça\Desktop\TesteC#\New folder\WebAPI\ConsumeWebAPI\ConsumeWebAPI\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Brenno Graça\Desktop\TesteC#\New folder\WebAPI\ConsumeWebAPI\ConsumeWebAPI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Brenno Graça\Desktop\TesteC#\New folder\WebAPI\ConsumeWebAPI\ConsumeWebAPI\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Brenno Graça\Desktop\TesteC#\New folder\WebAPI\ConsumeWebAPI\ConsumeWebAPI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Brenno Graça\Desktop\TesteC#\New folder\WebAPI\ConsumeWebAPI\ConsumeWebAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Brenno Graça\Desktop\TesteC#\New folder\WebAPI\ConsumeWebAPI\ConsumeWebAPI\obj\Debug\ConsumeWebAPI.csproj.CopyComplete
